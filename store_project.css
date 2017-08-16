@@ -1,0 +1,30 @@
+.center{
+ 
+ 	width: 400px ;
+ 	margin-left: auto ;
+ 	margin-right: auto ;
+  	margin-top: 3em;
+  	margin-bottom: 20px;
+}
+
+.navstructure{
+
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 5px;
+  	margin-bottom: 5px;
+  	text-align: center;
+  	border-top: solid 1px black;
+  	border-bottom: solid 1px black;
+  	border-left: 0;
+  	border-right: 0;
+  	width: 300px;
+  	padding: 5px;
+
+}
+
+.navcontent{
+
+	font-family: "Helvetica", sans-serif;
+
+}
