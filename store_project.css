@@ -26,5 +26,15 @@
 .navcontent{
 
 	font-family: "Helvetica", sans-serif;
+  width: 20%
 
+}
+
+.twitter {
+  padding: 20px;
+  border: solid 1px black;
+  width: 20%;
+  height: 300px;
+  text-align: center;
+  margin-left: 3em ;
 }

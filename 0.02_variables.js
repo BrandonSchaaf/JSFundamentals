@@ -61,17 +61,3 @@
 			var sandwichesNeeded = ((maxAge - currentAge) * 365 * 3).toLocaleString()
 
 			console.log("If I'm going to eat " + sandwichesPerDay + " sandwiches per day until I am " + maxAge + " years old, then I will need " + sandwichesNeeded + " sandwiches. Yowza.")
-
-
-
-//VARIABLE DATA TYPES
-
-
-
-
-//VARIABLE SCOPES
-
-
-
-
-//
