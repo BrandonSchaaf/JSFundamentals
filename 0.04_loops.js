@@ -28,7 +28,7 @@
 
 			//CHALLENGE: Using a for loop, count to 20 by twos.
 
-		for (var i = 2; i <= 20; i = i +2){
+		for (var i = 2; i <= 20; i = i + 2){
 			console.log(i) //Prints 2 through 20
 		}
 
