@@ -1,8 +1,5 @@
 // Data Types:
 
-
-
-
 // STRINGS: A collection of characters 
 	
 	// (Enclose in double or single quotations)
@@ -42,8 +39,6 @@
 		console.log('Home' [0] + 'Home' [1] + 'Home' [2] .toUpperCase() + 'Home' [3])
 
 
-
-
 // NUMBERS: A collection of integers
 
 	// These are things that numbers can do:
@@ -53,8 +48,6 @@
 	console.log(2 + 5); //7
 
 	console.log(10 % 3); //Divides and prints the remainder
-
-
 
 
 // BOOLEANS: True or false values
