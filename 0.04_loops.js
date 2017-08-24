@@ -59,10 +59,9 @@
 	var studentName = "smita";
 
 //        LCV     COLLECTION
-	// for (var l in studentName) {
-
-	// 	console.log(l)
-	// }
+	for (var l in studentName) {
+		console.log(l)
+	}
 
 // This loop automatically stopped at the end of the collection. 
 
