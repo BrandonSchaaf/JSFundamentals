@@ -67,7 +67,7 @@ hello3("AJ")// This prints AJ Schaaf. The parenthesis are for customization.
 	// 	console.log(sum2)
 	// }
 
-	//console.log(sum2)//undefined
+	// console.log(sum2)//undefined
 
 
 //var in a function, stays in function.
